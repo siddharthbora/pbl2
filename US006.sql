@@ -1,0 +1,4 @@
+ALTER TABLE Customer
+ADD Title VARCHAR(10);
+ALTER TABLE Customer
+ADD BillNumber INT;
